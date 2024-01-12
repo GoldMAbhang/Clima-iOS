@@ -80,6 +80,7 @@ class LoginController: UIViewController{
 //MARK: - SignupViewDelegate
 extension LoginController:SignupViewDelegate{
     func prefilledUsername(prefilledUsername: String) {
+        self.usernameTextField.text = prefilledUsername
         print(prefilledUsername)
     }
     

@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Clima Banner](Documentation/Clima%20Swift.jpg)
 
 #  Clima
 

@@ -1,5 +1,5 @@
 
-![Clima Banner](Documentation/Clima%20Swift.jpg)
+![Clima Banner](Documentation/ClimaMockup.jpg)
 
 #  Clima
 
